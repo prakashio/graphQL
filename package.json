@@ -1,0 +1,14 @@
+{
+  "name": "graphQL-basic",
+  "version": "1.0.0",
+  "description": "A query language for your API",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "devDependencies": {
+    "graphpack": "^1.0.6"
+  }
+}
